@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+</head>
+
+<body>
+
+    <a href="#k1"> 1 nolu konuya  git</a>
+    <a href="#k2"> 2 nolu konuya  git</a>
+    <a href="#k3"> 3 nolu konuya  git</a>
+    <a href="#k4"> 4 nolu konuya  git</a>
+
+    <h2 id="k1">Konu Başlığı 1</h2>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed similique laborum deleniti vitae rerum asperiores
+        fuga dolorem officia deserunt perferendis unde possimus, culpa aliquid ipsum veniam soluta eaque vero a earum.
+ rum, in labore cum, suscipit illum, a sequi autem id pariatur! Vel perspiciatis iusto
+    perferendis nemo incidunt ullam nobis vitae dolorum aspernatur repudiandae fugit
+        asperiores! Recusandae at magni fugiat placeat, assumenda facere aut magnam. Illum, earum.</p>
+    <h2 id="k2">Konu Başlığı 2</h2>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed similique laborum deleniti vitae rerum asperiores
+        fuga dolorem officia deserunt perferendis unde possimus, culpa aliquid ipsum veniam soluta eaque vero a earum.
+ rferendis nemo incidunt ullam nobis vitae dolorum aspernatur repudiandae fugit
+        asperiores! Recusandae at magni fugiat placeat, assumenda facere aut magnam. Illum, earum.</p>
+    <h2 id="k3">Konu Başlığı 3</h2>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed similique laborum deleniti vitae rerum asperiores
+        fuga dolorem officia deserunt perferendis unde possimus, culpa aliquid ipsum veniam soluta eaque vero a earum.
+ sequuntur repudiandae mollitia sunt, excepturi saepe quisquam. Nam ipsa molestias iste
+        ratione quaerat, vero eos perferendis nemo incidunt ullam nobis vitae dolorum aspernatur repudiandae fugit
+        asperiores! Recusandae at magni fugiat placeat, assumenda facere aut magnam. Illum, earum.</p>
+    <h2 id="k4">Konu Başlığı 4</h2>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed similique laborum deleniti vitae rerum asperiores
+        fuga dolorem officia deserunt perferendis unde possimus, culpa aliquid ipsum veniam soluta eaque vero a earum.
+i fugiat placeat, assumenda facere aut magnam. Illum, earum.</p>
+
+
+</body>
+
+</html>
